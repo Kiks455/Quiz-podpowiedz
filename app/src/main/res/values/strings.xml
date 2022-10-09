@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="question1">Język TypeScript jest rozszerzeniem języka JavaScript</string>
+    <string name="question2">Język C# został zaprojektowany dla firmy Oracle</string>
+    <string name="question3">Java jest obiektowym językiem programowania</string>
+    <string name="question4">Entity Framework jest frameworkiem wykorzystywanym do pracy z bazami danych</string>
+    <string name="question5">SQL jest językiem zapytań wykorzystywanym do tworzenia quizów</string>
+
+    <string name="correct_answer">Masz rację!</string>
+    <string name="wrong_answer">Odpowiedziałeś nieprawidłowo!</string>
+</resources>
