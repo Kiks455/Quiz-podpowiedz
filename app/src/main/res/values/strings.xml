@@ -12,4 +12,12 @@
 
     <string name="correct_answer">Masz rację!</string>
     <string name="wrong_answer">Odpowiedziałeś nieprawidłowo!</string>
+
+    <string name="prompt1">Zwróć uwagę na podobieństwo nazw</string>
+    <string name="prompt2">Pomyśl z jakiego języka korzysta firma Microsoft</string>
+    <string name="prompt3">Podobnie jak C#</string>
+    <string name="prompt4">Entity Framework to ORM</string>
+    <string name="prompt5">Bazy danych korzystają z języka SQL</string>
+
+    <string name="promptWasShown">Podpowiedź była wcześniej wyświetlona</string>
 </resources>
